@@ -1,7 +1,7 @@
 #connect mysql db
-SQLALCHEMY_DATABASE_URI = 'mysql+mysqlconnector://root:Dr.liu12345607@127.0.0.1:3307/autoassit'
+SQLALCHEMY_DATABASE_URI = 'mysql+mysqlconnector://root:xxxxx@127.0.0.1:nnnn/autoassit'
 
-DBrPW='Dr.liu12345607'
+DBrPW='xxxxx'
 
 
 SQLALCHEMY_TRACK_MODIFICATIONS = True
